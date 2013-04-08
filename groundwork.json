@@ -1,7 +1,7 @@
 {
   "name": "groundwork",
   "title": "GroundworkCSS",
-  "description": "A Responsive HTML5, CSS & Javascript Framework",
+  "description": "A Responsive, Nestable, Fractions-Based Fluid Grid System",
   "keywords": [
     "groundwork",
     "responsive",
@@ -10,7 +10,7 @@
     "javascript",
     "grid"
   ],
-  "version": "1.3",
+  "version": "1.5",
   "author": {
     "name": "Gary Hepting",
     "url": "http://groundworkcss.github.com"
@@ -19,14 +19,10 @@
     {
       "type": "MIT",
       "url": "http://groundworkcss.github.com/groundwork/LICENSE.txt"
-    },
-    {
-      "type": "GPL",
-      "url": "http://groundworkcss.github.com/groundwork/LICENSE_GPL.txt"
     }
   ],
   "bugs": "https://github.com/groundworkcss/groundwork/issues",
   "homepage": "http://groundworkcss.github.com/",
   "docs": "http://groundworkcss.github.com/",
-  "download": "https://github.com/groundworkcss/groundwork/archive/master.zip"
+  "download": "https://github.com/groundworkcss/groundwork/archive/grid.zip"
 }
