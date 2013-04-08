@@ -4,24 +4,18 @@
   alt="GroundworkCSS">
 </a>
 
-GroundworkCSS Beta v1.5
-=======================
+GroundworkCSS Stand-Alone Grid System
+=====================================
 
-Say hello to responsive design made easy.
+Say hello to the last grid system you'll ever need.
 
-http://groundwork.sidereel.com
+The GroundworkCSS Grid System is:
 
-[GroundworkCSS](http://groundwork.sidereel.com) is a fully responsive HTML5, CSS 
-and Javascript toolkit created by [@ghepting](http://twitter.com/ghepting).
-
-Using GroundworkCSS, you can rapidly prototype and build accessible web apps that 
-work on virtually any device. Key features that make GroundworkCSS stand out are:
-
-* nestable, fractions-based, fluid grid system
+* fluid
+* nestable
+* responsive
+* based on simple fractions
+* range of fractions can easily be changed/optimized
 * works on virtually anything: mobile, tablet, or large screen devices
-* built with modular SCSS and JS components
-* easy to customize
-* responsive text
-* unique approach to responsive tables
 * supports purely semantic implementations by utilizing Sass @extend, @mixin and 
   %placeholder classes
