@@ -1,6 +1,9 @@
 ###
  * Requires jquery.modals.js
 ###
-$ ->
-  # init inline modals
-  $('div.modal, div[role=dialog]').modal()
+(($) ->
+  $ ->
+    # init inline modals
+    $('div.modal, div[role=dialog]').modal()
+) jQuery
+

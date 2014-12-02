@@ -1,5 +1,9 @@
 ###
  * Requires jquery.tooltips.js
 ###
-$ ->
-  $('.tooltip[title]').tooltip() # tooltips
+(($) ->
+  $ ->
+    $('.tooltip[title]').tooltip() # tooltips
+
+) jQuery
+
